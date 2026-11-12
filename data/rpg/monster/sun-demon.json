@@ -21,7 +21,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -37,7 +37,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -53,7 +53,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -69,7 +69,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -85,7 +85,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -101,7 +101,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -117,7 +117,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -133,7 +133,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -150,7 +150,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -167,7 +167,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -184,7 +184,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -201,7 +201,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -218,7 +218,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -235,7 +235,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -252,7 +252,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     },
@@ -269,7 +269,7 @@
         },
         {
           "type": "custom",
-          "value": "%game.custom.disadvantage%"
+          "value": "%game.custom.advantage%"
         }
       ]
     }
